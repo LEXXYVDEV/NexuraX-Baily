@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=WhatsApp%20NEXURA%20BAILY%20Base&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Specialist%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=WhatsApp%20NEXURA%20BAILY%20⛩️&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Specialist%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
 </div>
 
 <p align="center">
@@ -35,10 +35,10 @@
 
 </div>
 
-### ✨ **Security Notice**  
+### ✨ **Follow My Chanel**  
 ```diff
-- NEVER SHARE YOUR SESSION FILE! 
-+ Use environment variables for sensitive data
+- https://whatsapp.com/channel/0029Vawpn3EISTkNvw81LP0e! 
++ Jangan Lupa Follow Ya kak
 ```
 
 ---
@@ -52,7 +52,7 @@
 
 ---
 
-**Let's build something awesome!** 🚀 WhatsApp Bot made simple with HIRAGII.
+**Let's build something awesome!** 🚀 NeXura Baily.
 
 
 <div align="center">
