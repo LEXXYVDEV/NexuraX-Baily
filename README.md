@@ -58,7 +58,7 @@
 <div align="center">
   <h2>💝 Support Me</h2>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+  <img src="https://files.catbox.moe/bi6yvm.png" width="100%">
   
   ### Show some ❤️ by starring repositories!
 </div>
